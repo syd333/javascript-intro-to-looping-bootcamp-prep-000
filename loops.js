@@ -9,12 +9,12 @@ function forLoop(array) {
   return array
 }
 
-// function hileLoop(n) {
-//   while (n > 0) {
-//     console.log(--n)
-//           return 'done'
-//   }
-// }
+function whileLoop(n) {
+  while (n > 0) {
+    console.log(--n)
+          return 'done'
+  }
+}
 //
 //
 // function incrementVariable() {
